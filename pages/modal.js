@@ -41,6 +41,8 @@ export default function Modal() {
         </div>
       </div>
       <div className="h-3 bg-gradient-to-r from-blue-400 to-purple-600 w-96 rounded-md rounded-t-none">&nbsp;</div>
+
+      <a className="block text-gray-400 mt-20 text-xs" href="https://www.uidesigndaily.com/posts/studio-modal-pop-up-share-link-day-1353">https://www.uidesigndaily.com/posts/studio-modal-pop-up-share-link-day-1353</a>
     </div>
   )
 }
